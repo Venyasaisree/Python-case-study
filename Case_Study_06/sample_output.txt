@@ -1,0 +1,8 @@
+0.Exit  1.Tea Rs.15  2.Sandwich Rs.40  3.Juice Rs.30
+Item code: Quantity: Order accepted. Bill: Rs. 30
+0.Exit  1.Tea Rs.15  2.Sandwich Rs.40  3.Juice Rs.30
+Item code: Total sales: Rs. 30
+Remaining stock:
+Tea 18
+Sandwich 10
+Juice 15

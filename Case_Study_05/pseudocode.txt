@@ -1,0 +1,9 @@
+START
+SET balance = 5000
+SET deposits = 0, withdrawals = 0
+REPEAT: INPUT transaction type
+IF type is deposit: INPUT amount; validate; update balance
+ELSE IF type is withdrawal: INPUT amount; validate funds; update balance
+ELSE IF type is exit: stop loop
+DISPLAY balance and totals
+STOP

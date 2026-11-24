@@ -1,0 +1,4 @@
+Basic pay: Rs. Allowances: Rs. Overtime hours: Overtime rate per hour: Rs. Incentive: Rs. Gross salary: Rs. 25000.0
+PF deduction: Rs. 1600.0
+Tax deduction: Rs. 1250.0
+Net salary: Rs. 22150.0

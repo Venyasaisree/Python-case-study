@@ -1,0 +1,6 @@
+1. Read salary inputs.
+2. Validate that values are non-negative.
+3. Calculate overtime pay.
+4. Calculate gross salary.
+5. Calculate PF and tax deductions.
+6. Calculate net salary and print statement.

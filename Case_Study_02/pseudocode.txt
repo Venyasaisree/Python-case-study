@@ -1,0 +1,9 @@
+START
+INPUT basic, allowances, overtime hours, overtime rate, incentive
+VALIDATE all inputs
+ overtime pay = hours * rate
+ gross = basic + allowances + overtime pay + incentive
+ PF = 8% of basic; tax = 5% of gross
+ net = gross - PF - tax
+DISPLAY salary statement
+STOP

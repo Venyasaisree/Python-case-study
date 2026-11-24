@@ -1,0 +1,7 @@
+1. Set opening balance.
+2. Display transaction choices.
+3. Read transaction type and amount.
+4. Validate amount.
+5. Update balance for deposit or permitted withdrawal.
+6. Repeat until user chooses exit.
+7. Display transaction summary.

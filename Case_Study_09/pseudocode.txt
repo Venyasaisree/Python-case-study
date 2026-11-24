@@ -1,0 +1,6 @@
+START
+SET AQI readings list
+CALCULATE average, minimum, maximum
+FOR each reading: classify by range
+DISPLAY all readings and summary
+STOP

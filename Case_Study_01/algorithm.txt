@@ -1,0 +1,6 @@
+1. Read units consumed.
+2. If units are invalid, display an error.
+3. Calculate energy charge using progressive slabs.
+4. Add fixed charge.
+5. If units exceed 300, add 5% surcharge.
+6. Display bill details.

@@ -1,0 +1,9 @@
+START
+SET menu, stock, prices
+REPEAT INPUT item code (0 exits)
+IF code valid: INPUT quantity
+IF quantity positive and stock sufficient: calculate cost; update stock and sales
+ELSE DISPLAY error
+UNTIL code 0
+DISPLAY sales and stock
+STOP

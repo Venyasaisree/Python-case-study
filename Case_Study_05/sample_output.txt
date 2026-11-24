@@ -1,0 +1,6 @@
+1.Deposit  2.Withdraw  3.Balance  4.Exit
+Choice: Deposit amount: Rs. 1.Deposit  2.Withdraw  3.Balance  4.Exit
+Choice: Withdrawal amount: Rs. 1.Deposit  2.Withdraw  3.Balance  4.Exit
+Choice: Deposits: Rs. 1000.0
+Withdrawals: Rs. 500.0
+Closing balance: Rs. 5500.0

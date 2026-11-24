@@ -1,0 +1,6 @@
+1. Read number of products.
+2. For each product, read name, price, and quantity.
+3. Calculate item total and accumulate subtotal.
+4. Apply threshold discount if eligible.
+5. Calculate tax and final bill.
+6. Display bill.

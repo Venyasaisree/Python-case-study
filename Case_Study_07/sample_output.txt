@@ -1,0 +1,5 @@
+Number of days: Meals prepared on day 1: Meals served: Leftovers: 10 Waste: 10.0 %
+Meals prepared on day 2: Meals served: Leftovers: 20 Waste: 25.0 %
+Waste exceeds 15% target
+Overall leftover meals: 30
+Overall waste percentage: 16.67 %

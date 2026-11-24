@@ -1,0 +1,7 @@
+START
+SET marks as nested list
+FOR each student row: calculate total and average
+FIND maximum total
+FOR each subject column: sum marks across students and divide by student count
+DISPLAY summaries
+STOP

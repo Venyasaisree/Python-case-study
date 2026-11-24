@@ -1,0 +1,4 @@
+1. Store sample AQI readings in a list.
+2. Calculate sum, average, minimum, and maximum.
+3. Classify each reading using conditions.
+4. Display readings and summary.

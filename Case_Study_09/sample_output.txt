@@ -1,0 +1,8 @@
+Readings: [42, 68, 115, 173, 95]
+Average AQI: 98.6
+Minimum: 42 Maximum: 173
+42 - Good
+68 - Moderate
+115 - Unhealthy for Sensitive Groups
+173 - Unhealthy
+95 - Moderate

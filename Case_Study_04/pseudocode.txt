@@ -1,0 +1,9 @@
+START
+INPUT attended, held
+IF invalid counts: DISPLAY error
+ELSE calculate percentage
+IF percentage >= 75: DISPLAY target met
+ELSE SET extra = 0
+WHILE (attended + extra) / (held + extra) < 0.75: extra = extra + 1
+DISPLAY extra
+STOP

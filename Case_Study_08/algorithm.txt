@@ -1,0 +1,5 @@
+1. Create a marks matrix.
+2. Calculate total and average for each student.
+3. Find highest student total.
+4. Calculate average for each subject using nested loops.
+5. Display student and subject summaries.

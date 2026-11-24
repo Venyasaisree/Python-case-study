@@ -1,0 +1,6 @@
+1. Read attended and total classes.
+2. Validate attendance counts.
+3. Calculate current percentage.
+4. If target is met, display eligible.
+5. Otherwise increment future classes until the target is reached.
+6. Display minimum additional classes.

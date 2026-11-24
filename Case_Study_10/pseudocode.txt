@@ -1,0 +1,11 @@
+START
+INPUT participants, sponsorship, expenses
+VALIDATE values
+registration income = participants * 150
+total income = registration income + sponsorship
+total expense = sum expense categories
+balance = total income - total expense
+IF balance >= 0: DISPLAY surplus
+ELSE DISPLAY deficit
+DISPLAY audit summary
+STOP

@@ -1,0 +1,7 @@
+Asha Total: 253 Average: 84.33
+Bala Total: 240 Average: 80.0
+Charan Total: 251 Average: 83.67
+Top student: Asha
+Python Average: 82.67
+Maths Average: 83.33
+English Average: 82.0

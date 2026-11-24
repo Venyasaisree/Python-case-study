@@ -1,0 +1,8 @@
+START
+INPUT units
+IF units < 0: DISPLAY invalid
+ELSE: calculate slab charges
+ADD fixed charge
+IF units > 300: ADD 5% surcharge
+DISPLAY total bill
+STOP

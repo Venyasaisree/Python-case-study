@@ -1,0 +1,4 @@
+Units consumed: Energy charge: Rs. 1050.0
+Fixed charge: Rs. 50
+Surcharge: Rs. 55.0
+Total bill: Rs. 1155.0

@@ -1,0 +1,8 @@
+1. Initialize item names, prices, and stock.
+2. Display menu.
+3. Read item code and quantity.
+4. Validate item and quantity.
+5. Check stock and accept/reject order.
+6. Update stock and sales total.
+7. Continue until exit.
+8. Display sales and remaining stock.

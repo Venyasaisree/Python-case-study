@@ -1,0 +1,6 @@
+Number of products: Product name: Price: Rs. Quantity: Rice - Rs. 1200.0
+Product name: Price: Rs. Quantity: Oil - Rs. 900.0
+Subtotal: Rs. 2100.0
+Discount: Rs. 210.0
+Tax: Rs. 94.5
+Total: Rs. 1984.5

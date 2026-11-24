@@ -1,0 +1,8 @@
+START
+INPUT days
+FOR each day: INPUT prepared, served
+IF invalid or served > prepared: report invalid
+ELSE leftovers = prepared - served; waste percent = leftovers/prepared * 100
+IF waste percent > 15: flag
+DISPLAY totals and flagged days
+STOP

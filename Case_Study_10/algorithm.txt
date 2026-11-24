@@ -1,0 +1,6 @@
+1. Read participant count, sponsorship, and expense categories.
+2. Validate inputs.
+3. Calculate registration income.
+4. Calculate total income and expenses.
+5. Determine surplus or deficit.
+6. Display financial audit.

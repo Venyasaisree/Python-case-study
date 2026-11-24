@@ -1,0 +1,6 @@
+1. Read number of days.
+2. For each day, input prepared and served meals.
+3. Validate counts.
+4. Calculate leftover meals and waste percentage.
+5. Flag days above 15%.
+6. Display overall summary.
